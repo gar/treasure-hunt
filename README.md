@@ -1,6 +1,6 @@
 # Treasure Hunt Game for CoderDojo
 
-Take from NoStarch book, "JavaScript for Kids" by Nick Morgan.
+Taken from NoStarch book, "JavaScript for Kids" by Nick Morgan.
 
 ## Step 1 Start
 
